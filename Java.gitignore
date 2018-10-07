@@ -21,15 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-<<<<<<< HEAD
-.project
 .class
 .settings
 .classpath
 target
-=======
-.class
-.settings
-.classpath
-target
->>>>>>> refs/remotes/origin/master
